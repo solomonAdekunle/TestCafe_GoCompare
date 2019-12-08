@@ -1,0 +1,39 @@
+{
+  "name": "testcafe-lesson2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "dependencies": {
+    "add": "^2.0.6",
+    "c21e": "1.1.9",
+    "chrome": "^0.1.0",
+    "core-js": "^3.1.4",
+    "cucumber": "^5.1.0",
+    "dotenv": "^8.0.0",
+    "eslint": "^6.1.0",
+    "eslint-config-sanity": "^0.141.5",
+    "gherkin-testcafe": "^2.3.3",
+    "install": "^0.13.0",
+    "no-pollution": "^1.0.2",
+    "sanitycheck": "^2.0.2",
+    "testcafe": "^1.7.0",
+    "testcafe-browser-provider-browserstack": "^1.9.0",
+    "testcafe-browser-provider-nightmare": "^0.0.5",
+    "testcafe-reporter-cucumber-json": "^2.0.0",
+    "testcafe-reporter-json": "^2.2.0",
+    "testcafe-reporter-list": "^2.1.0",
+    "testcafe-reporter-spec": "^2.1.1",
+    "the": "^1.0.2",
+    "yarn": "^1.17.3"
+  },
+  "devDependencies": {
+    "browser": "^0.2.6",
+    "multiple-cucumber-html-reporter": "^1.12.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "report": "node report-generator.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
