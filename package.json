@@ -24,7 +24,7 @@
     "testcafe-reporter-list": "^2.1.0",
     "testcafe-reporter-spec": "^2.1.1",
     "the": "^1.0.2",
-    "yarn": "^1.17.3"
+    "yarn": "^1.22.0"
   },
   "devDependencies": {
     "browser": "^0.2.6",
